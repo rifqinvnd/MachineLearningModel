@@ -1,2 +1,2 @@
-# Study
-Dicoding Study
+# Machine Learning Model
+
